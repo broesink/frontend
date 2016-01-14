@@ -15,7 +15,7 @@ The opinions in this guide attempt to reflect 18f's core development principles 
 ## Frameworks and Libraries
 The terms "framework" and "library" (and even "tool") are sometimes used interchangeably, but there is a not-so-subtle difference. Here's what these words mean when we use them at 18F:
 
-* **Frameworks** are collections of code that provide off-the-shelf building blocks (either visual components at the CSS level or feature-rich JavaScript objects). For instance, [Foundation] and [Bootstrap] are CSS frameworks, and [Backbone] is a JavaScript framework.
+* **Frameworks** are collections of code that provide off-the-shelf building blocks (either visual components at the CSS level or feature-rich JavaScript objects). For instance, [Foundation] and [Bootstrap] are [CSS frameworks], and [Backbone] is a JavaScript framework.
 * **Libraries** consist of the lower-level "helpers" that may serve as building blocks for custom components. [jQuery] and [Underscore] are JavaScript libraries; [Bourbon] provides both an overall structure for [Sass] projects and a slew of style helpers that can be mixed and matched.
 
 ## Choosing a Tool
@@ -33,6 +33,7 @@ Picking the right tool for the job can be tricky. We're working on a list of rec
 [Bootstrap]: http://getbootstrap.com/
 [Bourbon]: http://bourbon.io/
 [Foundation]: http://foundation.zurb.com/
+[CSS frameworks]: https://psdtowp.net/best-responsive-css-frameworks.html
 [Backbone]: http://backbonejs.org/
 [Underscore]: http://underscorejs.org/
 [Neat]: http://neat.bourbon.io/
